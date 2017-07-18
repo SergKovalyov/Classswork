@@ -1076,9 +1076,10 @@ font-family: 'Roboto', sans-serif;*/
 			.view-more-wrapper {
 				margin-top: 20px;
 			}
-			footer {
-				position: absolute;
+			.footer {
 				
+				  flex: 0 0 auto;
+								
 			}
 			.bottom {
 				width: 90%;
@@ -1105,6 +1106,9 @@ font-family: 'Roboto', sans-serif;*/
 				font-family: 'Montserrat', sans-serif;
 				font-size: 14px;
 				color: #f38181;
+			}
+			.facebook-link, .services-wrapper-link {
+				text-decoration: none;
 			}
 
 
